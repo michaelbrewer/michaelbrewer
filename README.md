@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently work:
+- [AWS Lambda Powertool Python](https://github.com/awslabs/aws-lambda-powertools-python)
+- [AWS CDK](https://github.com/aws/aws-cdk)
+
 <!--
 **michaelbrewer/michaelbrewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
