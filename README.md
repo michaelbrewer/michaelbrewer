@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My [github.io developer blog](https://michaelbrewer.github.io/)
+
+
 Currently work:
 - [AWS Lambda Powertool Python](https://github.com/awslabs/aws-lambda-powertools-python)
 - [AWS CDK](https://github.com/aws/aws-cdk)
