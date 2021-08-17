@@ -8,7 +8,7 @@ Currently work:
 - [AWS CDK](https://github.com/aws/aws-cdk)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=michaelbrewer&show_icons=true" alt="msailes" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=michaelbrewer&show_icons=true" alt="michaelbrewer" /> </p>
 
 <!--
 **michaelbrewer/michaelbrewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
