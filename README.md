@@ -3,9 +3,10 @@
 My [github.io developer blog](https://michaelbrewer.github.io/)
 
 
-Currently work:
+Currently working on:
 - [AWS Lambda Powertool Python](https://github.com/awslabs/aws-lambda-powertools-python)
 - [AWS CDK](https://github.com/aws/aws-cdk)
+- My day job at FiServ as a System Architect
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=michaelbrewer&show_icons=true" alt="michaelbrewer" /> </p>
