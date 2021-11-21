@@ -2,13 +2,11 @@
 
 My [github.io developer blog](https://michaelbrewer.github.io/)
 
-
 Currently working on:
 - [AWS Lambda Powertool Python](https://github.com/awslabs/aws-lambda-powertools-python)
 - [AWS CDK](https://github.com/aws/aws-cdk)
 - [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
-- My day job at FiServ as a System Architect
-
+- My day job at [FiServ](https://www.fiserv.com/) as a System Architect
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=michaelbrewer&show_icons=true" alt="michaelbrewer" /> </p>
 
