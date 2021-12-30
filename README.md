@@ -8,7 +8,7 @@ Currently working on:
 - [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
 - My day job at [FiServ](https://www.fiserv.com/) as a System Architect
 
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelbrewer&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelbrewer&theme=vue)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=michaelbrewer&show_icons=true" alt="michaelbrewer" /> </p>
 
