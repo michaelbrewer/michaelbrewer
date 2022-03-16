@@ -3,6 +3,7 @@
 My [github.io developer blog](https://michaelbrewer.github.io/)
 
 Currently working on:
+- [AWS Lambda Events Guide](https://github.com/michaelbrewer/aws-lambda-events) maintainer
 - [AWS Lambda Powertool Python](https://github.com/awslabs/aws-lambda-powertools-python) contributor
 - [AWS CDK](https://github.com/aws/aws-cdk) contributor
 - [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
