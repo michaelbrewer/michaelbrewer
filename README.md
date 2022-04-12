@@ -7,7 +7,7 @@ Currently working on:
 - [AWS Lambda Powertool Python](https://github.com/awslabs/aws-lambda-powertools-python) contributor
 - [AWS CDK](https://github.com/aws/aws-cdk) contributor
 - [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
-- My day job at [FiServ](https://www.fiserv.com/) as a System Architect
+- My day job at [FiServ](https://www.fiserv.com/) as a VP / Architect Follow
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelbrewer&theme=vue)
 
